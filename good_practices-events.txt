@@ -1,0 +1,2 @@
+When a event with mention of the target language is created, it should be commented with //language
+
