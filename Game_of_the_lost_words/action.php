@@ -3,15 +3,15 @@
 
 switch($_GET['action'])
 {
-  case 'store_name': 
+  case 'store_text': 
      //number1 = (int)$_GET['number1'];
      //number2 = (int)$_GET['number2'];
      //result = number1 + number2;
      
-     echo "In store_name \n";
-     echo $_GET['name'];
-     file_put_contents("names.txt",$_GET['name'],FILE_APPEND); 
-     file_put_contents("names.txt","\n",FILE_APPEND);
+     echo "\nPHP : In store_text \n";
+     echo $_GET['text'];
+     echo file_put_contents("flower-text.txt",$_GET['text'],FILE_APPEND); 
+     file_put_contents("flower-text.txt","\n",FILE_APPEND);
      break;  
 
 } 
