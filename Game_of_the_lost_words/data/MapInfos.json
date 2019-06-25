@@ -1,7 +1,7 @@
 [
 null,
 null,
-{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":909,"scrollY":1351.5},
+{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":909,"scrollY":1291.5},
 null,
 {"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":508.5,"scrollY":652.5},
 {"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":508.5,"scrollY":640.5}
