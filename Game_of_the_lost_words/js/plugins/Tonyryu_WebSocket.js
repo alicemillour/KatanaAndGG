@@ -114,7 +114,7 @@ Game_Interpreter.prototype.pluginCommand = function(command, args) {
   if(command === 'WS_SEND_TEXT_FLOWER')
     var splitted_command=args[0].split("?");
     if (splitted_command != undefined){
-	if ($gameVariables.value(splitted_command[1]) == "fleur" || $gameVariables.value(splitted_command[1]) == "Fleur"){
+	if ($gameVariables.value(splitted_command[1]) == "crann" || $gameVariables.value(splitted_command[1]) == "Crann"){
 	// changing value for global variable dependind on answer : \v[2] == true
 	$gameVariables.setValue(2, 1)
 	WsManager.send(splitted_command[0]+"?"+$gameVariables.value(splitted_command[1]));

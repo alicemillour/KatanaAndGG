@@ -1,8 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Annalisa's Map","order":4,"parentId":0,"scrollX":885,"scrollY":652.5},
-{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":873,"scrollY":640.5},
-{"id":3,"expanded":false,"name":"Yann's Test Map","order":5,"parentId":0,"scrollX":885,"scrollY":652.5},
-{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":885,"scrollY":652.5},
-{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":930,"scrollY":640.5}
+{"id":1,"expanded":true,"name":"Abandoned Town","order":6,"parentId":2,"scrollX":1416,"scrollY":1044},
+{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":1164,"scrollY":1380},
+{"id":3,"expanded":true,"name":"Yann's Test Map","order":9,"parentId":0,"scrollX":1287.2727272727273,"scrollY":949.0909090909091},
+{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":1416,"scrollY":1044},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1287.2727272727273,"scrollY":949.0909090909091},
+{"id":6,"expanded":true,"name":"House 1","order":4,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Mansion","order":5,"parentId":2,"scrollX":1152,"scrollY":1050},
+{"id":8,"expanded":false,"name":"Deserted Desert","order":7,"parentId":1,"scrollX":1287.2727272727273,"scrollY":949.0909090909091},
+{"id":9,"expanded":false,"name":"Deserted Meadow","order":8,"parentId":1,"scrollX":1287.2727272727273,"scrollY":949.0909090909091}
 ]
