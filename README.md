@@ -18,3 +18,5 @@ Presentation of the first version (developed with rpgboss) https://hal.archives-
 ### Issues section : https://github.com/alicemillour/KatanaAndGG/issues
 lists what should be implemented in the game (maps and plug ins), with dialogues to add to the story and person in charge of the task.
 
+## Other
+ - storyline https://drive.google.com/file/d/1R8hBv1wYVzOmfNER649VN9BPn9mCxy8Z/view?usp=sharing
