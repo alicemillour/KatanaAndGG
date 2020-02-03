@@ -124,6 +124,7 @@ Game_Interpreter.prototype.pluginCommand = function(command, args) {
 	}
     }else{
 	WsManager.send(args[0]);}
+
 };
 
 
