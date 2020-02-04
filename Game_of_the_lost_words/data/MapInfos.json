@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Starting point","order":5,"parentId":0,"scrollX":590,"scrollY":435},
-{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":982,"scrollY":1488},
-{"id":3,"expanded":true,"name":"Yann's Test Map","order":6,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
-{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":590,"scrollY":435},
-{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":590,"scrollY":427},
-{"id":6,"expanded":false,"name":"Floating Temple","order":4,"parentId":0,"scrollX":858,"scrollY":1013},
-{"id":7,"expanded":false,"name":"Village House 1F","order":7,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
-{"id":8,"expanded":true,"name":"Dragon's Lair","order":8,"parentId":0,"scrollX":776,"scrollY":1076},
-{"id":9,"expanded":true,"name":"House 1","order":9,"parentId":8,"scrollX":590,"scrollY":435},
-{"id":10,"expanded":false,"name":"Forest Town","order":10,"parentId":9,"scrollX":1338,"scrollY":1248}
+{"id":1,"expanded":false,"name":"Starting point","order":6,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
+{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":1164,"scrollY":1242},
+{"id":3,"expanded":true,"name":"Yann's Test Map","order":7,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
+{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":786.6666666666666,"scrollY":569.3333333333334},
+{"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":7,"expanded":false,"name":"Village House 1F","order":8,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
+{"id":8,"expanded":true,"name":"Dragon's Lair","order":9,"parentId":0,"scrollX":1396.8,"scrollY":1068},
+{"id":9,"expanded":true,"name":"House 1","order":10,"parentId":8,"scrollX":1180,"scrollY":870},
+{"id":10,"expanded":true,"name":"Forest Town","order":4,"parentId":2,"scrollX":1164,"scrollY":1050}
 ]
