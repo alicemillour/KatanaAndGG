@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
-{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":997.7142857142857,"scrollY":1380},
+{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":1060.2857142857142,"scrollY":1380},
 null,
-{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
-{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
-{"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
-{"id":7,"expanded":false,"name":"Village House 1F","order":7,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
+{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":7,"expanded":false,"name":"Village House 1F","order":7,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
 {"id":8,"expanded":true,"name":"Dragon's Lair","order":8,"parentId":0,"scrollX":1704.8571428571427,"scrollY":1380},
-{"id":9,"expanded":true,"name":"House 1","order":9,"parentId":0,"scrollX":1011.4285714285713,"scrollY":745.7142857142857},
-{"id":10,"expanded":true,"name":"Maze","order":4,"parentId":2,"scrollX":997.7142857142857,"scrollY":1133.142857142857}
+{"id":9,"expanded":true,"name":"House 1","order":9,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":10,"expanded":true,"name":"Maze","order":4,"parentId":2,"scrollX":1060.2857142857142,"scrollY":1174.2857142857142}
 ]
