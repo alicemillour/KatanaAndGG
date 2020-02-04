@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Starting point","order":6,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
-{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":1164,"scrollY":1242},
+{"id":1,"expanded":false,"name":"Starting point","order":6,"parentId":0,"scrollX":1416,"scrollY":1044},
+{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":1258.2857142857142,"scrollY":1380},
 {"id":3,"expanded":true,"name":"Yann's Test Map","order":7,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
 {"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
 {"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":786.6666666666666,"scrollY":569.3333333333334},
-{"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":1416,"scrollY":1044},
 {"id":7,"expanded":false,"name":"Village House 1F","order":8,"parentId":0,"scrollX":786.6666666666666,"scrollY":580},
 {"id":8,"expanded":true,"name":"Dragon's Lair","order":9,"parentId":0,"scrollX":1396.8,"scrollY":1068},
-{"id":9,"expanded":true,"name":"House 1","order":10,"parentId":8,"scrollX":1180,"scrollY":870},
-{"id":10,"expanded":true,"name":"Forest Town","order":4,"parentId":2,"scrollX":1164,"scrollY":1050}
+{"id":9,"expanded":true,"name":"House 1","order":10,"parentId":8,"scrollX":1416,"scrollY":1044},
+{"id":10,"expanded":true,"name":"Forest Town","order":4,"parentId":2,"scrollX":997.7142857142857,"scrollY":745.7142857142857}
 ]
