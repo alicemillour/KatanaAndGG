@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Starting point","order":5,"parentId":0,"scrollX":1416,"scrollY":1044},
-{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":939,"scrollY":1685},
+{"id":2,"expanded":true,"name":"Earth Village","order":3,"parentId":0,"scrollX":923,"scrollY":1661},
 {"id":3,"expanded":true,"name":"Yann's Test Map","order":6,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
 {"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":590,"scrollY":435},
 {"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":590,"scrollY":427},
