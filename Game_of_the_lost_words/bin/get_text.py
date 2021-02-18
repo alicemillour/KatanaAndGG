@@ -1,8 +1,8 @@
 import re
 import os
-
+# "001", "002_Alice","004","005","006","007","008","009","010"
 def main():
-	for i in ["001","002","002_Alice","004","005","006","007","008","009","010"]:		
+	for i in ["001", "002_Alice","004","005","006","007","008","009","010", "002"]:		
 
 		text_file="../data/Map{}_original.json".format(i)
 		test_output="../data/Map{}.json".format(i)
@@ -19,8 +19,8 @@ def main():
 				# gets repliques from text file
 				content=f.read()
 				print(content)
-
-				searched_strings = re.findall('\["([^]]*<br>)"', content)
+				#{"code":401,([^]]*\["[^]]*)"\]
+				searched_strings = re.findall('{"code":401,[^]]*\["([^]]*)"\]', content)
 				print(searched_strings)
 				return searched_strings
 
